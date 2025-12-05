@@ -197,7 +197,7 @@ const snailDataMap = {
     "mag_right-snail": {
         "id": "mag_right-snail",
         "name": "蜗牛侦探",
-        "description": "任何时间，任何地点，超级侦探，认真办案"
+        "description": "案子破了，但凶手老死了"
     },
     "melting_face-snail": {
         "id": "melting_face-snail",
